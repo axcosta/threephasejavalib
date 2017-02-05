@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/threephasejavalib.iml" filepath="$PROJECT_DIR$/.idea/modules/threephasejavalib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/threephasejavalib_main.iml" filepath="$PROJECT_DIR$/.idea/modules/threephasejavalib_main.iml" group="threephasejavalib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/threephasejavalib_test.iml" filepath="$PROJECT_DIR$/.idea/modules/threephasejavalib_test.iml" group="threephasejavalib" />
+    </modules>
+  </component>
+</project>
